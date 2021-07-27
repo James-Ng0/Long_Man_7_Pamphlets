@@ -12,4 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+#Ignoring txt files so that my ignoreme file will be ignored...
 *.txt
