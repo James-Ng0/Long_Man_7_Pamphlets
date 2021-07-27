@@ -1,0 +1,4 @@
+WASD to move
+e to pick up a flashlight and pamphlets
+
+Collect all pamphlets and reach the portal before longman gets you.

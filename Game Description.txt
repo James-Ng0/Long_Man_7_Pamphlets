@@ -1,0 +1,16 @@
+Game Description:
+What is the main action in the game:
+
+Longman: The 7 pages is a game in which you run and collect pages while trying not to be seen by LongMan
+
+What was the hardest part of the game to get working in Unreal:
+
+The hardest part was fine tuning the AI for LongMan. While it was very fun and rewarding to learn to use
+behavior trees in Unreal, figuring out the best routine and implementing it was difficult.
+
+What is the most interesting part of the game
+
+The most interesting part of the game is LongMan himself. I had fun modelling and rigging him, and some
+of the animations I found for him to perform (looking around)
+worked really well to get a sort of sweeping vision effect when he looks for you.
+I especially like how his animations fit into his routine.
